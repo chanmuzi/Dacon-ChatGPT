@@ -2,3 +2,5 @@ data/
 
 .DS_Store
 pt/
+test.ipynb
+*.pdf
